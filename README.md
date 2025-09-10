@@ -29,7 +29,7 @@ This project integrates a local Large Language Model (LLM) with the Google Maps 
 ### 1. Clone the Repository & Run
 
 ```bash
-git clone https://github.com/<your-username>/llm-maps-assistant.git
+git clone https://github.com/WindyOktia/llm-maps-assistant.git
 cd llm-maps-assistant
 
 # Build frontend (vite)
